@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/{org}/{site}/
+    url: https://content.da.live/pbrahmbhatt-rd/aem-storefront-commerce/
     type: markup
 
 folders:
